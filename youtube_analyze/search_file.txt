@@ -1,0 +1,8 @@
+{
+  "query": "python tutorial",
+  "max_duration_minutes": 120,
+  "min_rating_threshold": 0.0001,
+  "max_search_results": 5,
+  "include_transcription": true,
+  "include_translation": true
+}
