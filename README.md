@@ -182,9 +182,7 @@ MIT License - feel free to use in commercial projects.
 
 ## 🔗 **Connect**
 
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
-- **Portfolio**: [Your Website](https://yourwebsite.com)
-- **GitHub**: [Your GitHub](https://github.com/yourusername)
+- **LinkedIn**: www.linkedin.com/in/rohit-sharma-53154253
 
 ---
 
